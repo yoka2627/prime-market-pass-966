@@ -1,15 +1,12 @@
 {
-  "pass.json": "0b628b9684168bf0e5e5430e335cc2da03836dbb",
+  "pass.json": "4cd2a52361aadd280e0aeaac4f9f52d5e8657a1b",
   "icon.png": "bef15771fea929997a08c3e1df6c9cfe98029028",
   "icon@2x.png": "df3790f2cb7a857219f1cc8718e7c6c31215c5b7",
   "icon@3x.png": "c894f4521fb2c5b45a59a5b6d8c68fdab002b7ee",
   "logo.png": "a164e09dd7957bddc038cec967e92ad61ba0ed0e",
   "logo@2x.png": "ce8a2a89b2ad3d6d6eea5d8f2f35f13071107574",
   "logo@3x.png": "a297f427f6732fcf32f2f02323844bfc3b4163ed",
-  "thumbnail.png": "c116e2e5a230d5a145a1385502bbfcd05a1e315a",
-  "thumbnail@2x.png": "d9c3075a69d8398257a99b54b646a6a9013d82c3",
-  "thumbnail@3x.png": "0dba230e5b769e2fb0df4350f08cd6aee992977f",
-  "background.png": "f298d5ce82152deb4bf2a08dd744cc8f10c1fae6",
-  "background@2x.png": "bdaa5815df16de2d51980f50249ecee350460b5e",
-  "background@3x.png": "ea1298afb8c70358c62d5fa04c73409fec689c50"
+  "strip.png": "eea5c8ef4db33327064fb803d501cbf94854b8ed",
+  "strip@2x.png": "6c2f364d4525b13dfdbe44f0e96f74a94c59b0e1",
+  "strip@3x.png": "9e37b9bf1f1be80404bfcd9e5d9112c24c0dc166"
 }

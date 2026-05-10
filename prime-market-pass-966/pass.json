@@ -3,12 +3,12 @@
   "passTypeIdentifier": "pass.mk.local",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "32319A77910A1DB9",
-  "organizationName": "Prime Market Pass 966",
-  "description": "Apple Wallet Pass 项目",
+  "organizationName": "夜楓Yoka",
+  "description": "夜楓Yoka",
   "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(127, 29, 29)",
-  "labelColor": "rgb(254, 202, 202)",
-  "eventTicket": {
+  "backgroundColor": "rgb(14, 165, 233)",
+  "labelColor": "rgb(224, 242, 254)",
+  "storeCard": {
     "headerFields": [
       {
         "key": "h1",
@@ -56,7 +56,7 @@
       }
     ]
   },
-  "logoText": "Prime Market Pass 966",
+  "logoText": "夜楓Yoka",
   "semantics": {
     "eventType": "PKEventTypeLivePerformance",
     "eventName": "Phoenix Tour",
