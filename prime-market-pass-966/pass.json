@@ -1,0 +1,90 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mk.local",
+  "teamIdentifier": "9733K94JUG",
+  "serialNumber": "32319A77910A1DB9",
+  "organizationName": "Prime Market Pass 966",
+  "description": "Apple Wallet Pass 项目",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(127, 29, 29)",
+  "labelColor": "rgb(254, 202, 202)",
+  "eventTicket": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "CURTAIN",
+        "value": "8:00 PM"
+      }
+    ],
+    "primaryFields": [
+      {
+        "key": "p1",
+        "label": "SHOW",
+        "value": "The Glass Harbor"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "s1",
+        "label": "VENUE",
+        "value": "Grand Hall"
+      },
+      {
+        "key": "s2",
+        "label": "LEVEL",
+        "value": "Orchestra"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": "ROW",
+        "value": "C"
+      },
+      {
+        "key": "a2",
+        "label": "SEAT",
+        "value": "8"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "b1",
+        "label": "Entry",
+        "value": "Show this pass at the door. Valid ID required for 21+ entry.",
+        "dataDetectorTypes": []
+      }
+    ]
+  },
+  "logoText": "Prime Market Pass 966",
+  "semantics": {
+    "eventType": "PKEventTypeLivePerformance",
+    "eventName": "Phoenix Tour",
+    "eventStartDate": "2026-04-12T20:00:00-04:00",
+    "venueName": "The Lighthouse",
+    "venueRegionName": "Brooklyn",
+    "venueRoom": "Main Hall",
+    "performerNames": [
+      "Noctra"
+    ],
+    "admissionLevel": "General admission",
+    "attendeeName": "Visitor 5195",
+    "seats": [
+      {
+        "seatSection": "GA",
+        "seatRow": "-",
+        "seatNumber": "-"
+      }
+    ]
+  },
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatPDF417",
+      "message": "CIVIC-GLASS-C-8",
+      "messageEncoding": "iso-8859-1",
+      "altText": "C / 8"
+    }
+  ],
+  "webServiceURL": "https://example.invalid/passkit",
+  "authenticationToken": "0000000000000000"
+}
