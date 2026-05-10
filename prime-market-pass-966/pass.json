@@ -12,46 +12,67 @@
     "headerFields": [
       {
         "key": "h1",
-        "label": "CURTAIN",
-        "value": "8:00 PM"
+        "label": "所属",
+        "value": "アメリカ支部",
+        "textAlignment": "PKTextAlignmentLeft"
       }
     ],
     "primaryFields": [
       {
         "key": "p1",
-        "label": "SHOW",
-        "value": "The Glass Harbor"
+        "label": "     ",
+        "value": "   "
       }
     ],
     "secondaryFields": [
       {
         "key": "s1",
-        "label": "VENUE",
-        "value": "Grand Hall"
-      },
-      {
-        "key": "s2",
-        "label": "LEVEL",
-        "value": "Orchestra"
+        "label": "TWITTER",
+        "value": "@ryo_xiaoshi2627"
       }
     ],
     "auxiliaryFields": [
       {
-        "key": "a1",
-        "label": "ROW",
-        "value": "C"
-      },
-      {
         "key": "a2",
-        "label": "SEAT",
-        "value": "8"
+        "label": "担当",
+        "value": "星輝子8",
+        "textAlignment": "PKTextAlignmentRight"
       }
     ],
     "backFields": [
       {
         "key": "b1",
-        "label": "Entry",
-        "value": "Show this pass at the door. Valid ID required for 21+ entry.",
+        "label": "Twitter",
+        "value": "x.com/ryo_xiaoshi2627",
+        "attributedValue": "<a href=\"https://x.com/ryo_xiaoshi2627\">@ryo_xiaoshi2627</a>",
+        "dataDetectorTypes": []
+      },
+      {
+        "key": "b2",
+        "label": "Instagram",
+        "value": "",
+        "attributedValue": "<a href=\"https://www.instagram.com/yoka_ismc/\">yoka_ismc</a>",
+        "dataDetectorTypes": []
+      },
+      {
+        "key": "b3",
+        "label": "Mastodon (JP)",
+        "value": "Value",
+        "attributedValue": "<a href=\"https://imastodon.net/@yoka\">@yoka@imastodon.net</a>",
+        "dataDetectorTypes": []
+      },
+      {
+        "key": "b4",
+        "label": "Mastodon (CN)",
+        "value": "Value",
+        "attributedValue": "<a href=\"https://bangdream.space/@yoka\">@yoka@bangdream.space</a>",
+        "dataDetectorTypes": []
+      },
+      {
+        "key": "b5",
+        "label": "Homepage",
+        "value": "yoka",
+        "attributedValue": "<a href=\"https://yoka.dev/\">yoka.dev</a>",
         "dataDetectorTypes": []
       }
     ]
@@ -79,10 +100,10 @@
   },
   "barcodes": [
     {
-      "format": "PKBarcodeFormatPDF417",
-      "message": "CIVIC-GLASS-C-8",
+      "format": "PKBarcodeFormatQR",
+      "message": "https://x.com/ryo_xiaoshi2627",
       "messageEncoding": "iso-8859-1",
-      "altText": "C / 8"
+      "altText": "Twitter"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
